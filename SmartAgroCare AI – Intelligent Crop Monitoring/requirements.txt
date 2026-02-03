@@ -1,9 +1,9 @@
 # Core App
-streamlit==1.32.2
+streamlit==1.52.1
 
 # Numerical & Data Handling
-numpy==1.26.4
-pandas==2.2.1
+numpy==1.23.5
+pandas==2.2.3
 
 # Deep Learning
 tensorflow==2.15.0
